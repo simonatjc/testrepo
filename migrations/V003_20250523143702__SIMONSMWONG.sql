@@ -1,0 +1,1 @@
+alter table t1 add c2 int null
